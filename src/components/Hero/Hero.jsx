@@ -100,7 +100,7 @@ const Hero = ({ handleOrderPopup }) => {
                       <Button
                         handleOrderPopup={handleOrderPopup}
                         text="Shop By Category"
-                        bgColor="bg-primary"
+                        bgColor="bg-brandGreen"
                         textColor="text-white"
                       />
                     </div>
